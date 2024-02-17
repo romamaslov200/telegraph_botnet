@@ -16,6 +16,7 @@
 3. delay - Задержка парсинга страници (По стандарту значение установленно: "3000", это 3 сикунды)
 
 <h1>Функции:</h1>
+
 1. {split} - Разделение;
 2. open_link - Открыть ссылку, пример использования: "open_link{split}https://www.youtube.com";
 3. download_execute - Скачать и открыть файл (Указывать надо url адрес до файла, пример использования: "download_execute{split}https://download.virtualbox.org/virtualbox/7.0.14/VirtualBox-7.0.14-161095-Win.exe");
