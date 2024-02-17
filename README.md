@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я <a href="https://discordapp.com/users/ЗАЧЕМ ВАМ МОЁ ИМЯ#1178" target="_blank">Рома</a>
+<h1 align="center">Привет, я <a href="https://discordapp.com/users/ЗАЧЕМ ВАМ МОЁ ИМЯ#1178" target="_blank">Рома</a></h1>
 
 Это хуйня для удалённого управления пк через сайт telegra.ph
 
