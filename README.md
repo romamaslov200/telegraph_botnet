@@ -6,9 +6,9 @@
 <h2>
 Это хуйня для удалённого управления пк через сайт telegra.ph
 </h2>
-<p>Прога дабовляется в автозапуск, в regedit она будет находиться по адрессу "Компьютер\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\Shell"</p>
+Прога дабовляется в автозапуск, в regedit она будет находиться по адрессу "Компьютер\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\Shell"
 
-
+<h1>Настройки</h1>
 В классе config вы можите изменить следующие настройки:
 1. server - URL адресс до вашей страници управления telegra.ph
 2. spliter - Знак разделения между командой и значением комманды (По стандарту значение установленно: "{split}")
