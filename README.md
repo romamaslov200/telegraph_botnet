@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я <a href="https://discordapp.com/users/ЗАЧЕМ ВАМ МОЁ ИМЯ#1178" target="_blank">Рома</a></h1>
+<h1 align="center">Привет, меня зовут <a href="https://discordapp.com/users/ЗАЧЕМ ВАМ МОЁ ИМЯ#1178" target="_blank">Рома</a></h1>
 
 <h2>Тут дохуя костылей и ошибок строго не судите.
 Написал на коленке потомучто было скучно.</h2>
