@@ -13,15 +13,6 @@ namespace telegraph_botnet
         public static int DialogShowInfo(string TEXT)
         {
             MessageBox.Show(TEXT, "Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
-
-            /*
-            string result = Microsoft.VisualBasic.Interaction.InputBox("Prompt",
-                       "Инфо",
-                       $"{TEXT}",
-                       0,
-                       0);
-            
-            */
             return 1;
         }
 

