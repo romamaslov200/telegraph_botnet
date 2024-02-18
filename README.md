@@ -1,4 +1,7 @@
 <h1 align="center">Привет, меня зовут <a href="https://discordapp.com/users/ЗАЧЕМ ВАМ МОЁ ИМЯ#1178" target="_blank">Рома</a></h1>
+<div id="header" align="center">
+  <img src="https://media.tenor.com/_mYZWyrW3AUAAAAi/peach-goma-pc-night-keyboard-smashing.gif" width="100"/>
+</div>
 
 <h2>Тут дохуя костылей и ошибок строго не судите.
 Написал на коленке потомучто было скучно.</h2>
