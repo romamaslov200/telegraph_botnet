@@ -63,7 +63,6 @@ namespace telegraph_botnet
                 {
                     Thread.Sleep(config.delay);
                     continue;
-
                 }
 
                 last_cmd = content;
